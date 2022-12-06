@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\Queue Yapısı\Queue Yapısı\bin\Debug\Queue Yapısı.exe.config
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\Queue Yapısı\Queue Yapısı\bin\Debug\Queue Yapısı.exe
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\Queue Yapısı\Queue Yapısı\bin\Debug\Queue Yapısı.pdb
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\Queue Yapısı\Queue Yapısı\obj\Debug\Queue Yapısı.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\Queue Yapısı\Queue Yapısı\obj\Debug\Queue Yapısı.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\Queue Yapısı\Queue Yapısı\obj\Debug\Queue Yapısı.exe
+C:\Users\HP\Desktop\Masaüstü\Eski\Programlama\Queue Yapısı\Queue Yapısı\obj\Debug\Queue Yapısı.pdb
